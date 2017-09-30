@@ -24,3 +24,33 @@ html {
   height: 1.5rem;
   padding-right: 1rem;
 }
+
+/* Hero */
+.hero {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-5/moto.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 25rem;
+}
+
+.headline {
+  background-color: black;
+  color: white;
+  width: 20rem;
+  padding: 2rem 3rem;
+  top: 9rem;
+  position: relative;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.headline h1 {
+  font-size: 2rem;
+  line-height: 1.2em;
+  margin-top: 0.25rem;
+}
+
+.headline h4 {
+  margin: 1.33rem 0;
+}
